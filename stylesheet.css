@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    height: 94vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    height: 50px;
+    width: 300px;
+    background-color: peru;
+    border: none;
+    border-radius: 60px;
+    outline: none;
+}
